@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blynk-io/static/css/main.d95e2501.chunk.css",
+    "main.js": "/blynk-io/static/js/main.12a6b9a2.chunk.js",
+    "main.js.map": "/blynk-io/static/js/main.12a6b9a2.chunk.js.map",
+    "runtime-main.js": "/blynk-io/static/js/runtime-main.06b07a56.js",
+    "runtime-main.js.map": "/blynk-io/static/js/runtime-main.06b07a56.js.map",
+    "static/js/2.902e8e04.chunk.js": "/blynk-io/static/js/2.902e8e04.chunk.js",
+    "static/js/2.902e8e04.chunk.js.map": "/blynk-io/static/js/2.902e8e04.chunk.js.map",
+    "index.html": "/blynk-io/index.html",
+    "precache-manifest.7f1a92d72e15e312b3f4ce06254be13c.js": "/blynk-io/precache-manifest.7f1a92d72e15e312b3f4ce06254be13c.js",
+    "service-worker.js": "/blynk-io/service-worker.js",
+    "static/css/main.d95e2501.chunk.css.map": "/blynk-io/static/css/main.d95e2501.chunk.css.map",
+    "static/js/2.902e8e04.chunk.js.LICENSE.txt": "/blynk-io/static/js/2.902e8e04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b07a56.js",
+    "static/js/2.902e8e04.chunk.js",
+    "static/css/main.d95e2501.chunk.css",
+    "static/js/main.12a6b9a2.chunk.js"
+  ]
+}
