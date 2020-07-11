@@ -1,0 +1,14 @@
+.todo{
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 10px;
+}
+.task{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    align-items: center;
+
+}
